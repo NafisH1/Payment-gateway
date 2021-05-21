@@ -1,5 +1,4 @@
 # Payment-Gateway-Integration
-#Task3:The-Sparks-Foundation
 A simple website where payment gateway is integrated.
 There is a simple donate button on homepage.
 Flow Chart of the Website is given below: 
